@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - SAJA</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">SAJA</div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Main</a></li>
+                <li><a href="portfolio.html" class="nav-link">Portfolio</a></li>
+                <li><a href="resume.html" class="nav-link active">CV / Resume</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="pdf-container">
+        <section class="resume-section">
+            <h1 class="resume-title">My CV & Resume</h1>
+            
+            <!-- Documents Container -->
+            <div class="documents-container">
+                <!-- CV Column -->
+                <div class="document-column">
+                    <h2 class="document-title">CV</h2>
+                    
+                    <!-- Download Button -->
+                    <div class="document-button-container">
+                        <a href="Assets/Sajjad_Mighani_CV.pdf" download="Sajjad_Mighani_CV.pdf" class="primary-btn">
+                            <span>⬇ Download CV</span>
+                        </a>
+                    </div>
+
+                    <!-- PDF Preview -->
+                    <div class="pdf-preview-container">
+                        <div id="cvViewer" class="pdf-viewer"></div>
+                        <div id="cvPageInfo" class="pdf-page-info">Loading CV...</div>
+                    </div>
+                </div>
+
+                <!-- Resume Column -->
+                <div class="document-column">
+                    <h2 class="document-title">Resume</h2>
+                    
+                    <!-- Download Button -->
+                    <div class="document-button-container">
+                        <a href="Assets/Sajjad_Mighani_Resume.pdf" download="Sajjad_Mighani_Resume.pdf" class="secondary-btn">
+                            <span>⬇ Download Resume</span>
+                        </a>
+                    </div>
+
+                    <!-- PDF Preview -->
+                    <div class="pdf-preview-container">
+                        <div id="resumeViewer" class="pdf-viewer"></div>
+                        <div id="resumePageInfo" class="pdf-page-info">Loading Resume...</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2026 SAJA. All rights reserved.</p>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" id="backToTop" title="Back to top">↑</button>
+
+    <script>
+        const backToTopBtn = document.getElementById('backToTop');
+        
+        window.addEventListener('scroll', function() {
+            if (window.pageYOffset > 300) {
+                backToTopBtn.classList.add('show');
+            } else {
+                backToTopBtn.classList.remove('show');
+            }
+        });
+        
+        backToTopBtn.addEventListener('click', function() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    </script>
+
+    <script src="resume.js"></script>
+</body>
+</html>
