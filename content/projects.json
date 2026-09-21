@@ -56,7 +56,7 @@
             }
           ],
           "descriptions": [
-            "Miner is a horror game prototype that you have to find gold in dungeons while a blind dengreos ghost is chasing you.",
+            "Miner is a horror game prototype that you have to find gold in dungeons while a blind dangerous ghost is chasing you.",
             "This ghost has an advanced AI system with multiple abilities and behaviors that created with Behavior Tree.",
             "I created the whole part of the enemy, its AI systems, and its interactions with player and environment. also I worked on and polished many parts of the game.",
             "Developed with Unreal Engine, C++, and Blueprint."
