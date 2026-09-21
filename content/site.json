@@ -1,0 +1,53 @@
+{
+  "siteTitle": "SAJA",
+  "logo": "SAJA",
+  "navigation": {
+    "home": "Main",
+    "portfolio": "Portfolio",
+    "resume": "Resume"
+  },
+  "hero": {
+    "name": "I am SAJA",
+    "subtitle": "A Game Developer",
+    "description": "Hi! I'm SAJA, a Junior Game Developer experienced in Unreal Engine and C++ with background of Unity and C#. Proficient in Object-Oriented Programming (OOP), gameplay mechanics, AI frameworks (including Behavior Trees), and Unreal Engine architecture. Fluent in English for effective team collaboration. Eager to learn and apply new skills and techniques.",
+    "profileImage": "Assets/Profile.jpg"
+  },
+  "contact": {
+    "label": "Get in Touch:",
+    "note": "Connect with me through email, LinkedIn, or GitHub.",
+    "links": [
+      {
+        "label": "Email",
+        "detail": "sajadmighani386@gmail.com",
+        "kind": "email",
+        "value": "sajadmighani386@gmail.com",
+        "icon": "@"
+      },
+      {
+        "label": "LinkedIn",
+        "detail": "linkedin.com/in/sajadmighani",
+        "kind": "external",
+        "value": "https://linkedin.com/in/sajadmighani",
+        "icon": "in"
+      },
+      {
+        "label": "GitHub",
+        "detail": "github.com/Saja386",
+        "kind": "external",
+        "value": "https://github.com/Saja386",
+        "icon": "</>"
+      }
+    ]
+  },
+  "footer": {
+    "text": "© 2026 SAJA. All rights reserved."
+  },
+  "resume": {
+    "title": "Resume",
+    "downloadLabel": "Download Resume",
+    "file": "Assets/Sajjad_Mighani_Resume.pdf",
+    "viewerTitle": "Resume",
+    "fallbackText": "Unable to load Resume",
+    "fallbackLinkLabel": "Download Resume"
+  }
+}

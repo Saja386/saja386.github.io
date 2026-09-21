@@ -1,84 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-page="home">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SAJA</title>
-    <link rel="stylesheet" href="styles.css">
+    <title></title>
+    <link rel="icon" href="./Assets/Favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css?v=20260921-7">
 </head>
 <body>
-    <!-- Navigation Bar -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">SAJA</div>
-            <ul class="nav-menu">
-                <li><a href="index.html" class="nav-link active">Main</a></li>
-                <li><a href="portfolio.html" class="nav-link">Portfolio</a></li>
-                <li><a href="resume.html" class="nav-link">CV / Resume</a></li>
-            </ul>
-        </div>
-    </nav>
-
-    <!-- Main Content -->
-    <main class="container">
-        <section class="hero">
-            <!-- Left Side - Photo -->
-            <div class="hero-photo">
-                <img src="./Assets/Profile.jpg" alt="Profile Photo" class="profile-image">
-            </div>
-
-            <!-- Right Side - Introduction -->
-            <div class="hero-content">
-                <h1 class="hero-title">I am SAJA</h1>
-                <p class="hero-subtitle">A Game Developer</p>
-                <p class="hero-description">
-                Hi! I'm SAJA, a Junior Game Developer experienced in <b>Unreal Engine</b> and <b>C++</b> with background of <b>Unity</b> and <b>C#</b>. Proficient in <b>Object-Oriented Programming (OOP)</b>, gameplay mechanics, <b>AI frameworks</b> (including <b>Behavior Trees</b>), and <b>Unreal Engine architecture</b>. Fluent in English for effective team collaboration. Eager to learn and apply new skills and techniques.
-                </p>
-
-                <!-- Contact & Social Links -->
-                <div class="contact-section">
-                    <p class="contact-label">Get in Touch:</p>
-                    <div class="social-links">
-                        <a href="mailto:sajadmighani386@gmail.com" target="_blank" class="primary-btn">
-                            <span>Email</span>
-                        </a>
-                        <a href="https://linkedin.com/in/sajadmighani" target="_blank" class="secondary-btn">
-                            <span>LinkedIn</span>
-                        </a>
-                        <a href="https://github.com/Saja386" target="_blank" class="primary-btn">
-                            <span>GitHub</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <!-- Footer -->
-    <footer class="footer">
-        <p>&copy; 2026 SAJA. All rights reserved.</p>
-    </footer>
-
-    <!-- Back to Top Button -->
-    <button class="back-to-top" id="backToTop" title="Back to top">↑</button>
-
-    <script>
-        const backToTopBtn = document.getElementById('backToTop');
-        
-        window.addEventListener('scroll', function() {
-            if (window.pageYOffset > 300) {
-                backToTopBtn.classList.add('show');
-            } else {
-                backToTopBtn.classList.remove('show');
-            }
-        });
-        
-        backToTopBtn.addEventListener('click', function() {
-            window.scrollTo({
-                top: 0,
-                behavior: 'smooth'
-            });
-        });
-    </script>
+    <div id="site-header"></div>
+    <main id="page-content"></main>
+    <div id="site-footer"></div>
+    <script src="site.js"></script>
 </body>
 </html>

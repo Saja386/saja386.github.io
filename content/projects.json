@@ -1,0 +1,270 @@
+{
+  "pageTitle": "Portfolio - SAJA",
+  "categories": [
+    {
+      "name": "Game Projects",
+      "projects": [
+        {
+          "id": "miner",
+          "title": "Miner",
+          "gallery": [
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo1.png",
+              "alt": "Miner Screenshot 1"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo2.png",
+              "alt": "Miner Screenshot 2"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo3.png",
+              "alt": "Miner Screenshot 3"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo4.png",
+              "alt": "Miner Screenshot 4"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo5.png",
+              "alt": "Miner Screenshot 5"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo6.png",
+              "alt": "Miner Screenshot 6"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo7.png",
+              "alt": "Miner Screenshot 7"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Miner/Miner_Photo8.png",
+              "alt": "Miner Screenshot 8"
+            },
+            {
+              "type": "video",
+              "src": "Assets/Miner/Miner_Video1.mp4",
+              "poster": "Assets/Miner/Miner_Video1_Thumbnail.jpg",
+              "alt": "Miner Gameplay Video"
+            }
+          ],
+          "descriptions": [
+            "Miner is a multiplayer horror game prototype that you have to find gold in dungeons while a blind dengreos ghost is chasing you.",
+            "This ghost has an advanced AI system with multiple abilities and behaviors that created with Behavior Tree.",
+            "I created the whole part of the enemy, its AI systems, and its interactions with player and environment. also I worked on and polished many parts of the game.",
+            "Developed with Unreal Engine, C++, and Blueprint."
+          ],
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/Mahyar-86/IP_Miner",
+              "style": "primary"
+            }
+          ]
+        },
+        {
+          "id": "online-shooter-template",
+          "title": "Online Shooter Template",
+          "gallery": [
+            {
+              "type": "image",
+              "src": "Assets/OnlineShooterTemplate/OnlineShooterTemplate_Photo1.jpg",
+              "alt": "Online Shooter Template Screenshot 1"
+            },
+            {
+              "type": "video",
+              "src": "Assets/OnlineShooterTemplate/OnlineShooterTemplate_Video1.mp4",
+              "poster": "Assets/OnlineShooterTemplate/OnlineShooterTemplate_Video1_Thumbnail.jpg",
+              "alt": "Online Shooter Template Gameplay Video"
+            }
+          ],
+          "descriptions": [
+            "Based on Unreal Engine 5.6 shooter template.",
+            "Modified to support online functionality.",
+            "Worked with Online Subsystems.",
+            "Developed with Unreal Engine and C++."
+          ],
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/Saja386/FP_Cpp",
+              "style": "primary"
+            }
+          ]
+        },
+        {
+          "id": "internship-fps-tower-defence",
+          "title": "Internship Project: FPS Tower Defence",
+          "gallery": [
+            {
+              "type": "image",
+              "src": "Assets/Internship/Internship_Photo1.png",
+              "alt": "Internship Screenshot 1"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Internship/Internship_Photo2.png",
+              "alt": "Internship Screenshot 2"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Internship/Internship_Photo3.png",
+              "alt": "Internship Screenshot 3"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Internship/Internship_Photo4.png",
+              "alt": "Internship Screenshot 4"
+            },
+            {
+              "type": "image",
+              "src": "Assets/Internship/Internship_Photo5.png",
+              "alt": "Internship Screenshot 5"
+            },
+            {
+              "type": "video",
+              "src": "Assets/Internship/Internship_Video1.mp4",
+              "poster": "Assets/Internship/Internship_Video1_Thumbnail.jpg",
+              "alt": "Internship Gameplay Video"
+            }
+          ],
+          "descriptions": [
+            "This is a first-person shooter tower defence game that we created in the internship program.",
+            "In this game, you have to defend the base by killing the enemies by creating multiple towers.",
+            "But towers are not enough, and you have to deal with enemies yourself with your gun.",
+            "I created whole parts of interactions with towers, shop and currency system, HUD, and UI/UX of the game.",
+            "Developed with Unreal Engine and Blueprint."
+          ],
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/Mahyar-86/FPS_TTW",
+              "style": "primary"
+            }
+          ]
+        },
+        {
+          "id": "egg-league",
+          "title": "Egg League",
+          "gallery": [
+            {
+              "type": "image",
+              "src": "Assets/EggLeague/EggLeague_Photo1.jpg",
+              "alt": "Egg League Screenshot 1"
+            },
+            {
+              "type": "image",
+              "src": "Assets/EggLeague/EggLeague_Photo2.png",
+              "alt": "Egg League Screenshot 2"
+            },
+            {
+              "type": "image",
+              "src": "Assets/EggLeague/EggLeague_Photo3.png",
+              "alt": "Egg League Screenshot 3"
+            },
+            {
+              "type": "image",
+              "src": "Assets/EggLeague/EggLeague_Photo4.png",
+              "alt": "Egg League Screenshot 4"
+            },
+            {
+              "type": "image",
+              "src": "Assets/EggLeague/EggLeague_Photo5.png",
+              "alt": "Egg League Screenshot 5"
+            },
+            {
+              "type": "video",
+              "src": "Assets/EggLeague/EggLeague_Video1.mp4",
+              "poster": "Assets/EggLeague/EggLeague_Video1_Thumbnail.jpg",
+              "alt": "Egg League Gameplay Video"
+            }
+          ],
+          "descriptions": [
+            "A two-player game where you and your friend battle it out to collect eggs.",
+            "The map is filled with obstacles, and your opponent will be trying to stop you. You can also attack each other, and if you're lucky, you can steal your opponent's eggs!",
+            "Egg League is a fun game that will test your skills and your friendship. So gather your friends and get ready for a wild ride!",
+            "Developed with Unreal Engine and Blueprint."
+          ],
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/Mahyar-86/EggLeague",
+              "style": "primary"
+            },
+            {
+              "label": "GGJ Page",
+              "url": "https://globalgamejam.org/games/2024/egg-league-8",
+              "style": "secondary"
+            }
+          ]
+        },
+        {
+          "id": "game-ability-system-rpg",
+          "title": "Game Ability System RPG Game Sample",
+          "gallery": [
+            {
+              "type": "image",
+              "src": "Assets/RPG/RPG_Photo1.png",
+              "alt": "RPG Screenshot 1"
+            },
+            {
+              "type": "image",
+              "src": "Assets/RPG/RPG_Photo2.png",
+              "alt": "RPG Screenshot 2"
+            },
+            {
+              "type": "image",
+              "src": "Assets/RPG/RPG_Photo3.png",
+              "alt": "RPG Screenshot 3"
+            },
+            {
+              "type": "image",
+              "src": "Assets/RPG/RPG_Photo4.png",
+              "alt": "RPG Screenshot 4"
+            },
+            {
+              "type": "image",
+              "src": "Assets/RPG/RPG_Photo5.png",
+              "alt": "RPG Screenshot 5"
+            },
+            {
+              "type": "image",
+              "src": "Assets/RPG/RPG_Photo6.png",
+              "alt": "RPG Screenshot 6"
+            },
+            {
+              "type": "image",
+              "src": "Assets/RPG/RPG_Photo7.png",
+              "alt": "RPG Screenshot 7"
+            },
+            {
+              "type": "video",
+              "src": "Assets/RPG/RPG_Video1.mp4",
+              "poster": "Assets/RPG/RPG_Video1_Thumbnail.jpg",
+              "alt": "RPG Gameplay Video"
+            }
+          ],
+          "descriptions": [
+            "My personal project through the Game Ability System Course.",
+            "Working with Ability System component, Attribute set, Game ability tasks and etc.",
+            "Developed with Unreal Engine, C++, and Game Ability System."
+          ],
+          "links": [
+            {
+              "label": "GitHub",
+              "url": "https://github.com/Saja386/Gas_LearningCurse",
+              "style": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
