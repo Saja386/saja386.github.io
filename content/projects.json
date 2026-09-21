@@ -10,53 +10,53 @@
           "gallery": [
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo1.png",
+              "src": "/Assets/Miner/Miner_Photo1.png",
               "alt": "Miner Screenshot 1"
             },
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo2.png",
+              "src": "/Assets/Miner/Miner_Photo2.png",
               "alt": "Miner Screenshot 2"
             },
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo3.png",
+              "src": "/Assets/Miner/Miner_Photo3.png",
               "alt": "Miner Screenshot 3"
             },
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo4.png",
+              "src": "/Assets/Miner/Miner_Photo4.png",
               "alt": "Miner Screenshot 4"
             },
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo5.png",
+              "src": "/Assets/Miner/Miner_Photo5.png",
               "alt": "Miner Screenshot 5"
             },
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo6.png",
+              "src": "/Assets/Miner/Miner_Photo6.png",
               "alt": "Miner Screenshot 6"
             },
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo7.png",
+              "src": "/Assets/Miner/Miner_Photo7.png",
               "alt": "Miner Screenshot 7"
             },
             {
               "type": "image",
-              "src": "Assets/Miner/Miner_Photo8.png",
+              "src": "/Assets/Miner/Miner_Photo8.png",
               "alt": "Miner Screenshot 8"
             },
             {
               "type": "video",
-              "src": "Assets/Miner/Miner_Video1.mp4",
-              "poster": "Assets/Miner/Miner_Video1_Thumbnail.jpg",
+              "src": "/Assets/Miner/Miner_Video1.mp4",
+              "poster": "/Assets/Miner/Miner_Video1_Thumbnail.jpg",
               "alt": "Miner Gameplay Video"
             }
           ],
           "descriptions": [
-            "Miner is a multiplayer horror game prototype that you have to find gold in dungeons while a blind dengreos ghost is chasing you.",
+            "Miner is a horror game prototype that you have to find gold in dungeons while a blind dengreos ghost is chasing you.",
             "This ghost has an advanced AI system with multiple abilities and behaviors that created with Behavior Tree.",
             "I created the whole part of the enemy, its AI systems, and its interactions with player and environment. also I worked on and polished many parts of the game.",
             "Developed with Unreal Engine, C++, and Blueprint."
@@ -75,13 +75,13 @@
           "gallery": [
             {
               "type": "image",
-              "src": "Assets/OnlineShooterTemplate/OnlineShooterTemplate_Photo1.jpg",
+              "src": "/Assets/OnlineShooterTemplate/OnlineShooterTemplate_Photo1.jpg",
               "alt": "Online Shooter Template Screenshot 1"
             },
             {
               "type": "video",
-              "src": "Assets/OnlineShooterTemplate/OnlineShooterTemplate_Video1.mp4",
-              "poster": "Assets/OnlineShooterTemplate/OnlineShooterTemplate_Video1_Thumbnail.jpg",
+              "src": "/Assets/OnlineShooterTemplate/OnlineShooterTemplate_Video1.mp4",
+              "poster": "/Assets/OnlineShooterTemplate/OnlineShooterTemplate_Video1_Thumbnail.jpg",
               "alt": "Online Shooter Template Gameplay Video"
             }
           ],
@@ -105,33 +105,33 @@
           "gallery": [
             {
               "type": "image",
-              "src": "Assets/Internship/Internship_Photo1.png",
+              "src": "/Assets/Internship/Internship_Photo1.png",
               "alt": "Internship Screenshot 1"
             },
             {
               "type": "image",
-              "src": "Assets/Internship/Internship_Photo2.png",
+              "src": "/Assets/Internship/Internship_Photo2.png",
               "alt": "Internship Screenshot 2"
             },
             {
               "type": "image",
-              "src": "Assets/Internship/Internship_Photo3.png",
+              "src": "/Assets/Internship/Internship_Photo3.png",
               "alt": "Internship Screenshot 3"
             },
             {
               "type": "image",
-              "src": "Assets/Internship/Internship_Photo4.png",
+              "src": "/Assets/Internship/Internship_Photo4.png",
               "alt": "Internship Screenshot 4"
             },
             {
               "type": "image",
-              "src": "Assets/Internship/Internship_Photo5.png",
+              "src": "/Assets/Internship/Internship_Photo5.png",
               "alt": "Internship Screenshot 5"
             },
             {
               "type": "video",
-              "src": "Assets/Internship/Internship_Video1.mp4",
-              "poster": "Assets/Internship/Internship_Video1_Thumbnail.jpg",
+              "src": "/Assets/Internship/Internship_Video1.mp4",
+              "poster": "/Assets/Internship/Internship_Video1_Thumbnail.jpg",
               "alt": "Internship Gameplay Video"
             }
           ],
@@ -156,33 +156,33 @@
           "gallery": [
             {
               "type": "image",
-              "src": "Assets/EggLeague/EggLeague_Photo1.jpg",
+              "src": "/Assets/EggLeague/EggLeague_Photo1.jpg",
               "alt": "Egg League Screenshot 1"
             },
             {
               "type": "image",
-              "src": "Assets/EggLeague/EggLeague_Photo2.png",
+              "src": "/Assets/EggLeague/EggLeague_Photo2.png",
               "alt": "Egg League Screenshot 2"
             },
             {
               "type": "image",
-              "src": "Assets/EggLeague/EggLeague_Photo3.png",
+              "src": "/Assets/EggLeague/EggLeague_Photo3.png",
               "alt": "Egg League Screenshot 3"
             },
             {
               "type": "image",
-              "src": "Assets/EggLeague/EggLeague_Photo4.png",
+              "src": "/Assets/EggLeague/EggLeague_Photo4.png",
               "alt": "Egg League Screenshot 4"
             },
             {
               "type": "image",
-              "src": "Assets/EggLeague/EggLeague_Photo5.png",
+              "src": "/Assets/EggLeague/EggLeague_Photo5.png",
               "alt": "Egg League Screenshot 5"
             },
             {
               "type": "video",
-              "src": "Assets/EggLeague/EggLeague_Video1.mp4",
-              "poster": "Assets/EggLeague/EggLeague_Video1_Thumbnail.jpg",
+              "src": "/Assets/EggLeague/EggLeague_Video1.mp4",
+              "poster": "/Assets/EggLeague/EggLeague_Video1_Thumbnail.jpg",
               "alt": "Egg League Gameplay Video"
             }
           ],
@@ -211,43 +211,43 @@
           "gallery": [
             {
               "type": "image",
-              "src": "Assets/RPG/RPG_Photo1.png",
+              "src": "/Assets/RPG/RPG_Photo1.png",
               "alt": "RPG Screenshot 1"
             },
             {
               "type": "image",
-              "src": "Assets/RPG/RPG_Photo2.png",
+              "src": "/Assets/RPG/RPG_Photo2.png",
               "alt": "RPG Screenshot 2"
             },
             {
               "type": "image",
-              "src": "Assets/RPG/RPG_Photo3.png",
+              "src": "/Assets/RPG/RPG_Photo3.png",
               "alt": "RPG Screenshot 3"
             },
             {
               "type": "image",
-              "src": "Assets/RPG/RPG_Photo4.png",
+              "src": "/Assets/RPG/RPG_Photo4.png",
               "alt": "RPG Screenshot 4"
             },
             {
               "type": "image",
-              "src": "Assets/RPG/RPG_Photo5.png",
+              "src": "/Assets/RPG/RPG_Photo5.png",
               "alt": "RPG Screenshot 5"
             },
             {
               "type": "image",
-              "src": "Assets/RPG/RPG_Photo6.png",
+              "src": "/Assets/RPG/RPG_Photo6.png",
               "alt": "RPG Screenshot 6"
             },
             {
               "type": "image",
-              "src": "Assets/RPG/RPG_Photo7.png",
+              "src": "/Assets/RPG/RPG_Photo7.png",
               "alt": "RPG Screenshot 7"
             },
             {
               "type": "video",
-              "src": "Assets/RPG/RPG_Video1.mp4",
-              "poster": "Assets/RPG/RPG_Video1_Thumbnail.jpg",
+              "src": "/Assets/RPG/RPG_Video1.mp4",
+              "poster": "/Assets/RPG/RPG_Video1_Thumbnail.jpg",
               "alt": "RPG Gameplay Video"
             }
           ],
